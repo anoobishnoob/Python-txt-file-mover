@@ -1,6 +1,6 @@
 #author: that boi
 '''
-I should write shit here for people, but nah
+I should write shit here for people, but nah; edit: I should probably not write shit and leave this for an potential future employer to see
 '''
 
 
